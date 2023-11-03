@@ -1,0 +1,7 @@
+{
+    "repository_owner": "nome de usuário ao qual o repositório pertence",
+    "repository_name": "nome do repositório sendo assistido",
+    "github_token": "token para aplicação github",
+    "bot_token": "token do bot do discord"
+  }
+  
