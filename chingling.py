@@ -56,7 +56,7 @@ async def on_ready():
 @tasks.loop(minutes=1)
 async def check_pull_requests():
     try:
-        channel_id = 1169801716326203462
+        channel_id = #ID do Canal do Discord
 
         channel = bot.get_channel(channel_id)
         if channel:
